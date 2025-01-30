@@ -1,5 +1,14 @@
-## Hi there 👋
+## 👋 HI, I'm Leo
+🏫 I'm a first year student at Epitech Lille  
 
+## 🔧 My Stack
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)  
+[![My Tools](https://skillicons.dev/icons?i=godot,linux,visualstudio)](https://skillicons.dev)  
+[![My Socials](https://skillicons.dev/icons?i=github,linkedin,discord)](https://skillicons.dev)  
+
+## :envelope: Contact
+[LinkedIn](https://www.linkedin.com/in/l%C3%A9o-batilliot-48847734a/)  
+mail : leo.batilliot@epitech.eu
 <!--
 **Leo-Batilliot/Leo-Batilliot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
