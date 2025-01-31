@@ -1,7 +1,7 @@
 # 👋 HI, I'm Leo
 🌱 Learning C, Csfml, C++, Python, Shell, Makefile  
 ## :ledger: Work
-If you want to check out my school/personnal projects [[CLICK HERE]](https://github.com/Leo-Batilliot/My_work)
+### If you want to check out my school/personnal projects </font> [[CLICK HERE]](https://github.com/Leo-Batilliot/My_work)
 ## 🔧 My Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)  
 [![My Tools](https://skillicons.dev/icons?i=godot,linux,visualstudio)](https://skillicons.dev)  
