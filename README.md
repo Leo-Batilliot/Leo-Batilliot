@@ -1,8 +1,8 @@
 # 👋 HI, I'm Leo
-🌱 Learning C, Csfml, C++, Python, Shell, Makefile  
+🌱 Learning C, Python, Bash, Makefile, Docker and Javascript as a first year Epitech student
 ## :ledger: If you want to check out my school/personnal projects </font> [[CLICK HERE]](https://github.com/Leo-Batilliot/My_work)
 ## 🔧 My Stack
-[![My Skills](https://skillicons.dev/icons?i=c,nodejs,py,bash)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=c,py,bash,nodejs)](https://skillicons.dev)  
 [![My Tools](https://skillicons.dev/icons?i=godot,linux,visualstudio,docker)](https://skillicons.dev)  
 [![My Socials](https://skillicons.dev/icons?i=github,linkedin,discord,notion)](https://skillicons.dev)
 ## :books: My School
