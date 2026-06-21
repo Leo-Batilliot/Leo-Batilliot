@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5B0&center=true&vCenter=true&random=false&width=550&lines=Hey+%F0%9F%91%8B+I'm+L%C3%A9o+Batilliot;Epitech+Lille+%E2%80%94+2nd+year;Low-level+%7C+Networking+%7C+Data" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5B0&center=true&vCenter=true&random=false&width=550&lines=Hey+%F0%9F%91%8B+I'm+L%C3%A9o+Batilliot;Epitech+Lille+%E2%80%94+3rd+year;Low-level+%7C+Network+%7C+Data+%7C+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ## `> whoami`
 
-Étudiant en 2ème année à **Epitech Lille**, je travaille sur du développement bas-niveau *(C/C++)*, de la manipulation de données en Python, des projets graphiques 2D/3D et du réseau.
+Étudiant en 3ème année à **Epitech Lille**, je travaille sur du développement bas-niveau *(C/C++)*, de la manipulation de données en Python, des projets graphiques 2D/3D et du réseau.
 
 Curieux des modèles d'IA, je possède une bonne connaissance des LLMs *(Claude, Copilot, ...)* et de leurs usages concrets dans des projets réels.
 
@@ -61,6 +61,7 @@ Curieux des modèles d'IA, je possède une bonne connaissance des LLMs *(Claude,
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
@@ -76,7 +77,7 @@ Curieux des modèles d'IA, je possède une bonne connaissance des LLMs *(Claude,
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 </td>
 <td align="center" width="33%">
